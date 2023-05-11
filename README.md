@@ -1,0 +1,1 @@
+# automate_django_set_up
